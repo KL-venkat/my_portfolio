@@ -117,7 +117,7 @@ import {
   
   const experiences = [
     {
-      title: "Support Analyst",
+      title: "Technical Support Engineer",
       company_name: "whitehat jr",
       icon: whitehatjr,
       iconBg: "#383E56",
@@ -294,7 +294,7 @@ import {
         },
       ],
       image: proctor_clone,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://kl-venkat.github.io/proctor_watchdog/",
     },
   ];
   
